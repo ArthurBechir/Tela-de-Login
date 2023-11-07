@@ -21,6 +21,6 @@ Métodos utilizados na LoginScreen
 ![login2](https://github.com/ArthurBechir/Tela-de-Login/assets/124618876/e8d60b89-fcf1-461a-8d3a-3be9b89ffd86)
 
 ## Publicação
-githun: ArthurBechir.
+https://github.com/ArthurBechir/Tela-de-Login
 
 ## Última atualização 06/11/2023
